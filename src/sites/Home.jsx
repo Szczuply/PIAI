@@ -91,7 +91,7 @@ function Home() {
             </div>
           </div>
         </div>
-        <Link to={'/'}>
+        <Link to={'/offers'}>
         <button className="px-4 py-2 bg-green-600 text-white rounded-sm hover:cursor-pointer">
             Wyszukaj
           </button>
